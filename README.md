@@ -1,2 +1,2 @@
 # Django
-Progress through my Django Udemy course.
+Keeping track of my progress in my Django Udemy course.
