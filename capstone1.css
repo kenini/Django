@@ -1,30 +1,42 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@kenini 
+0
+0 0 kenini/Django
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Security  Insights  Settings
+Django/capstone.css
+@kenini kenini Update capstone.css
+15752b8 4 minutes ago
+35 lines (31 sloc)  541 Bytes
+    
 body{
     font-family: 'Lora', serif;
     background-color: black;
     color: black;
     text-align: center;
     border: 20px solid black;
-    
     margin: 0px;
 }
+
 .main {
     background-color: lightblue;
     width: 80%;
     margin: auto;
 }  
 
-
-}
 p{
     padding-top: 5%;
     padding-left: 20%;
     padding-right: 20%;
 }
-p{
-    
-    padding-left: 20%;
-    padding-right: 20%;
-}
+
 #signup{
     border: round;
     border-radius: 25px;
@@ -38,3 +50,4 @@ p{
 input{
     margin-bottom: 20px;
 }
+
